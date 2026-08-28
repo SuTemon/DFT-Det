@@ -1,0 +1,17 @@
+# Core dependencies for the FusionKD implementation.
+# Tested environment from the original project:
+# Python 3.8, CUDA 11.3
+torch==1.12.1
+torchvision==0.13.1
+torchaudio==0.12.1
+mmengine==0.7.3
+mmcv==2.0.0rc4
+mmdet==3.0.0rc6
+numpy
+opencv-python
+Pillow
+pycocotools
+tqdm
+transformers
+scipy
+terminaltables

@@ -1,2 +1,24 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 数据集和权重文件（太大，不要上传）
+*.pth
+*.pt
+*.onnx
+data/
+outputs/
+work_dirs/
+
+# IDE 和系统文件
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# 虚拟环境
+venv/
+env/
+.venv/
