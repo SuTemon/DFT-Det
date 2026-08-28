@@ -14,7 +14,7 @@
 
 This repository contains the official implementation of **DFT-Det**, a few-shot industrial defect detector that treats frozen and few-shot fine-tuned states of the same vision-language model (VLM) as complementary knowledge forms.
 
-> **Note:** The result figure is referenced as `fig/Fig7.png`. Please copy the local figure to `code/fig/Fig7.png` before uploading the repository to GitHub.
+
 
 ![DFT-Det results](fig/Fig7.png)
 
